@@ -7,8 +7,3 @@ input[type=number] {
    appearance: textfield;
 
 }
-
-/* .table-striped>tbody>tr:nth-child(odd)>td, 
-.table-striped>tbody>tr:nth-child(odd)>th {
-   background-color: rgb(243, 240, 193);
-} */
